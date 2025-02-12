@@ -6,3 +6,7 @@
  - HogwartsLogo
  - Doors and frame
  - Mountain
+### HW2
+ - Magnifying lense
+ - Hidden object
+ - Scripts made look better
